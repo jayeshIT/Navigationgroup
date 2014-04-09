@@ -1,0 +1,6 @@
+
+"#winblue" : {
+  title : 'Blue',
+  backgroundColor : 'blue',
+  barColor : "red"
+}

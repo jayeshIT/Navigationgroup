@@ -1,0 +1,9 @@
+<Alloy>
+    <!-- <Window> -->
+        <NavigationGroup id="nav" platform="ios">
+            <Window id="win1" title="Red Window" backgroundColor="red" navBarHidden="true">
+                <Button title="Open Blue Window" onClick="openBlueWindow">
+            </Window>
+        </NavigationGroup>
+    <!-- </Window> -->
+</Alloy>

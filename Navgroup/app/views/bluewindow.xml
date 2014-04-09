@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="winblue">
+		<Button title="Open yellow Window" id="btnyellow"/>
+	</Window>
+</Alloy>
